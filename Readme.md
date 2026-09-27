@@ -56,7 +56,7 @@ To run this pipeline locally, set up your Python execution sandbox environment a
 
 git clone https://github.com
 
-cd GNN-Drug-Target-Interaction
+cd Computational-CADD-Pipeline
 
 &nbsp;
 
